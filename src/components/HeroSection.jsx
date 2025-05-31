@@ -45,7 +45,7 @@ const HeroSection = () => {
                 <FaGithub size={20} />
               </a>
               <a
-                href="www.linkedin.com/in/ipadeola-taiwo"
+                href="https://www.linkedin.com/in/ipadeola-taiwo/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className=" p-3 bg-gray-200 hover:bg-gray-300 rounded-full shadow-md text-gray-800 hover:text-black transition"
