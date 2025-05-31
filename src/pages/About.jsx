@@ -19,16 +19,20 @@ const About = () => {
             About Me
           </h2>
         </div>
-        <p className=" pt-4 max-w-[45rem] text-center">
-          I’m a passionate self-taught frontend developer currently deepening my
-          expertise in backend development through the ALX program, with a clear
-          vision of becoming a well-rounded and innovative full-stack problem
-          solver. I actively build side projects and continuously refine my
-          frontend skills to deliver robust, user-centered solutions. For me,
-          coding goes beyond building applications — it’s about solving
-          real-world problems, bridging digital gaps, and empowering
-          communities. My ultimate goal is to leverage technology to create
-          scalable and meaningful impact across Africa and beyond.
+        <p className=" pt-4 max-w-[45rem]">
+          I’m a self-taught full-stack developer with a strong foundation in
+          frontend engineering and a growing command of backend technologies
+          through the ALX Software Engineering program. What sets me apart is my
+          ability to translate complex problems into clean, user-friendly
+          solutions — blending technical precision with creative
+          problem-solving. I’m deeply passionate about using technology to solve
+          real-world challenges, especially those affecting underserved
+          communities in Africa. I believe in the power of code not just to
+          build products, but to bridge opportunity gaps and empower people.
+          Through my current journey as a developer, I’m equipping myself with
+          the tools and knowledge to build scalable, impactful solutions that
+          align with my mission: creating inclusive digital experiences that
+          transform lives across Africa and beyond.
         </p>
 
         <div id="skills" className=" flex items-center justify-center mt-12">
