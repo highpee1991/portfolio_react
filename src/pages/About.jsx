@@ -19,7 +19,7 @@ const About = () => {
             About Me
           </h2>
         </div>
-        <p className=" pt-4 max-w-[45rem]">
+        <p className=" pt-4 max-w-[45rem] flex items-start justify-start">
           I’m a self-taught full-stack developer with a strong foundation in
           frontend engineering and a growing command of backend technologies
           through the ALX Software Engineering program. What sets me apart is my
