@@ -37,7 +37,7 @@ const HeroSection = () => {
                 <FaSquareXTwitter size={20} />
               </a>
               <a
-                href="https://x.com/highpee3"
+                href="https://github.com/highpee1991"
                 target="_blank"
                 rel="noopener noreferrer"
                 className=" p-3 bg-gray-200 hover:bg-gray-300 rounded-full shadow-md text-gray-800 hover:text-black transition"
@@ -45,7 +45,7 @@ const HeroSection = () => {
                 <FaGithub size={20} />
               </a>
               <a
-                href="https://x.com/highpee3"
+                href="www.linkedin.com/in/ipadeola-taiwo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className=" p-3 bg-gray-200 hover:bg-gray-300 rounded-full shadow-md text-gray-800 hover:text-black transition"
